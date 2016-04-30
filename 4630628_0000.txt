@@ -1,0 +1,8 @@
+ 
+
+MASTER f
+NEGATNE
+NUMBER
+
+00-0219.4
+
